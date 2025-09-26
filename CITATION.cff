@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: LepardEigenvalueFinder
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Peter
+    family-names: Seely
+    email: peter.a.seely@gmail.com
+    affiliation: Brigham Young University
+    orcid: 'https://orcid.org/0009-0004-5877-281X'
+  - given-names: Joseph
+    family-names: Henderson
+    email: joseph.henderson@mathematics.byu.edu
+    affiliation: Brigham Young University
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/BismarkPrime/LepardEigenvalueFinder/releases/tag/v1.0.0-beta
+repository-code: 'https://github.com/BismarkPrime/LepardEigenvalueFinder'
+abstract: >-
+  An implementation of the LEParD (Local Equitable Partition
+  Decomposition) Algorithm for computing a graph's spectrum,
+  along with some basic utilities for benchmarking against
+  existing methods.
+keywords:
+  - eigenvalue finder
+  - equitable partition
+  - local equitable partition
+  - LEParD algorithm
+license: MIT
